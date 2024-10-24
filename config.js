@@ -42,9 +42,9 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 
 
-global.vcardowner = ['447405935355'] //ur owner number
+global.vcardowner = ['79274305323'] //ur owner number
 
-global.ownername = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼' //ur owner name
+global.ownername = 'HACKER' //ur owner name
 
 global.ytname = "YT: AlienAlfa" //ur yt chanel name
 
@@ -55,9 +55,9 @@ global.location = "UK, London, hertfordshire" //ur location
 
 
 
-global.owner = ['447405935355']
+global.owner = ['79274305323']
 
-global.ownertag = '447405935355' //ur tag number
+global.ownertag = '79274305323' //ur tag number
 
 global.botname = "𝒜𝓊𝓇𝑜𝓇𝒶 𝐵𝒪𝒯-𝑀𝒟" //ur bot name
 
